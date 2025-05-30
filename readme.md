@@ -24,3 +24,6 @@ Welcome to the **Low-Level Design (LLD)** repository! 🚀 This repository is a 
 - Real-World Case Studies (LLD for Netflix, Uber, etc.)
 - Common LLD Interview Questions & Solutions
 
+---
+
+> 🎯 **Note:** I'm currently working through problems and patterns inspired by [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design), implementing them with my own explanations and solutions to deepen understanding.
